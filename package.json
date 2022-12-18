@@ -1,0 +1,25 @@
+{
+  "name": "websrappingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapscode/webSrappingPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapscode/webSrappingPractice/issues"
+  },
+  "homepage": "https://github.com/sapscode/webSrappingPractice#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "puppeteer": "^19.4.1"
+  }
+}
